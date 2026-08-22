@@ -1,0 +1,5 @@
+﻿# needed to run the notebook
+pandas
+scikit-learn
+matplotlib
+joblib

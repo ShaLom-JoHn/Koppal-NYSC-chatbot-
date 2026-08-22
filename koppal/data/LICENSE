@@ -1,0 +1,93 @@
+KOPPAL DATASET LICENCE
+All Rights Reserved
+
+Copyright (c) 2026 [YOUR FULL NAME]
+
+
+1. WHAT THIS COVERS
+
+This licence applies to the following files, and to any part, copy, extract or
+derivative of them (together, "the Dataset"):
+
+    nysc_question_source-1.csv
+    data/koppal_knowledge_base.csv
+    data/paraphrases.csv
+
+The Dataset is an original compilation. Its selection, arrangement, cleaning,
+deduplication and labelling, the 121-intent taxonomy applied to it, and all
+answer text and paraphrases contained in it were created by the copyright
+holder. Copyright and compilation rights in that work are retained in full.
+
+Source code in this repository is licensed separately. See the LICENSE file in
+the repository root.
+
+
+2. GRANT
+
+No licence is granted by default.
+
+Except as set out in section 3, no person may copy, reproduce, publish,
+distribute, transmit, adapt, translate, merge, text- or data-mine, or create
+derivative works from the Dataset, in whole or in part, and no person may use
+the Dataset to train, fine-tune, evaluate or benchmark any machine learning
+model, without the prior written permission of the copyright holder.
+
+Permission may be requested at: [YOUR EMAIL]
+
+Each request is considered individually. Absence of a reply is not permission.
+
+
+3. PERMITTED WITHOUT ASKING
+
+3.1 Academic assessment. Examiners, markers, supervisors and academic
+    integrity staff of the institution to which this work was submitted may
+    read, execute and verify the Dataset and the accompanying notebook for the
+    purpose of assessing the submission.
+
+3.2 Private study. Any person may read the Dataset and run the accompanying
+    notebook locally for personal, non-commercial study. This permits reading
+    and running only. It does not permit redistribution, publication, or use
+    of the Dataset to train any model that is released, deployed or shared.
+
+
+4. PROHIBITED WITHOUT PERMISSION
+
+    Commercial use of any kind.
+    Redistribution, including as part of any larger dataset or corpus.
+    Use in training, fine-tuning or evaluating any model that is published,
+      deployed, sold or offered as a service.
+    Presenting the Dataset, or any substantial part of it, as one's own work.
+    Removing or altering this licence or the copyright notice above.
+
+
+5. ATTRIBUTION
+
+Where a permitted use leads to any public reference to the Dataset, cite it as:
+
+    Koppal NYSC FAQ Dataset, [YOUR FULL NAME], 2026.
+
+
+6. NO WARRANTY
+
+The Dataset is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of accuracy, fitness for a
+particular purpose, or non-infringement.
+
+The Dataset records publicly reported NYSC practice as at the time of
+collection. It is not official NYSC guidance, and it may be incomplete or out
+of date. The copyright holder accepts no liability for any claim, damage or
+loss arising from use of or reliance on the Dataset.
+
+
+7. RESERVATION OF RIGHTS
+
+All rights not expressly granted above are reserved. Nothing in this licence
+transfers ownership of the Dataset. Nothing in this licence grants any right in
+any trademark, service mark or logo of the copyright holder, or of the National
+Youth Service Corps.
+
+
+8. TERMINATION
+
+Any permission granted under this licence, including under section 3,
+terminates automatically and immediately upon breach of any of its terms.
